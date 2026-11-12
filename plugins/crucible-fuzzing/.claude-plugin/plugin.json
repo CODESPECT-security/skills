@@ -1,0 +1,12 @@
+{
+  "name": "crucible-fuzzing",
+  "description": "Plan, build, run and triage Crucible fuzzing campaigns on Solana and Anchor programs.",
+  "version": "1.4.0",
+  "author": {
+    "name": "CODESPECT"
+  },
+  "homepage": "https://github.com/CODESPECT-security/skills/tree/main/plugins/crucible-fuzzing",
+  "repository": "https://github.com/CODESPECT-security/skills",
+  "license": "MIT",
+  "keywords": ["solana", "anchor", "fuzzing", "crucible", "litesvm", "security", "audit"]
+}

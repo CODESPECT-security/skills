@@ -1,0 +1,17 @@
+{
+  "name": "codespect",
+  "owner": {
+    "name": "CODESPECT"
+  },
+  "metadata": {
+    "description": "Public collection of AI skills from the CODESPECT team for smart contract security work."
+  },
+  "plugins": [
+    {
+      "name": "crucible-fuzzing",
+      "source": "./plugins/crucible-fuzzing",
+      "description": "Plan, build, run and triage Crucible fuzzing campaigns on Solana and Anchor programs.",
+      "category": "security"
+    }
+  ]
+}
